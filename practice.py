@@ -18,7 +18,7 @@ def solution(left, right):
             
     return answer 
 
-left = 16
+left = 13
 right = 17
 c = solution(left, right)
 print(c)
